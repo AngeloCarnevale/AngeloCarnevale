@@ -1,12 +1,17 @@
+<div align="center"></div>
+  
 <img src = "gif.gif" width = "325px" align = "right">
 
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<div style="display: inline_block"><br>
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  
+</div>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaliIinux&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
