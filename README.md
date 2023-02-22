@@ -1,6 +1,6 @@
 <div align="center"></div>
   
-<img src = "chainsaw.gif" width = "325px" align = "right">
+<img src = "chainsaw.gif" width = "100px" align = "right">
 
 <div style="display: inline_block"><br>
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
