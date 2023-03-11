@@ -11,8 +11,8 @@
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </div>
- Git Hub Stats:
- 
+<br>
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=kaliIinux&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaliIinux&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaliIinux&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
