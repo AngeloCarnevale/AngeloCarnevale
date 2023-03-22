@@ -13,3 +13,5 @@
   <img align="center" height="50" wth="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   
  </div>
+
+![Snake animation](https://github.com/kaliIinux/kaliIinux/blob/output/github-contribution-grid-snake.svg)
