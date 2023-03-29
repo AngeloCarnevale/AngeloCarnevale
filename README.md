@@ -16,4 +16,4 @@
   
  </div>
 
-![Snake animation](https://github.com/kaliIinux/kaliIinux/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/UT0PIC/UT0PIC/blob/output/github-contribution-grid-snake.svg)
