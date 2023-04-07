@@ -2,7 +2,9 @@
  <a href="https://github.com/kaliIinux">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaliIinux&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliIinux&layout=compact&langs_count=7&theme=monokai"/>
-  <img src = "chainsaw.gif" width = "250px">
+  <div>
+   <img src = "chainsaw.gif" width = "250px">
+  </div
 </div>
   
 <div align="center">
