@@ -5,7 +5,6 @@
   <img src = "chainsaw.gif" width = "250px">
 </div>
   
-<img src = "chainsaw.gif" width = "250px">
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
