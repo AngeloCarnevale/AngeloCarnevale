@@ -1,7 +1,6 @@
 <div align="left">
         <a href="https://github.com/kaliIinux"></a>
-        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaliIinux&theme=github_dark&hide_border=true&count_private=true"/>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliIinux&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+       
     </div>
 <img src = "chainsaw.gif" width = "250px" align = "right">
 <div align="center">
