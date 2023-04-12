@@ -1,4 +1,4 @@
-# Hi there! Be very welcome to my Github profile
+#My Github stats
 
 <div align="center">
  <a href="https://github.com/kaliIinux">
@@ -8,6 +8,7 @@
 
  <img src = "chainsaw.gif" width = "250px" align="right">
 
+ #Tools, IDE's and technologies i use
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -16,5 +17,4 @@
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raspberry" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" alt="Mysql" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
 </div>
