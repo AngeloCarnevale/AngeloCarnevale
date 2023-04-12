@@ -23,7 +23,7 @@
 
 <div align="center"> 
 
-  ![Snake animation](https://github.com/kaliIinux/kaliIinux/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
