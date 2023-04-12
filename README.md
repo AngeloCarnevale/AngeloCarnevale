@@ -1,4 +1,4 @@
-#My Github stats
+## My Github Stats
 
 <div align="center">
  <a href="https://github.com/kaliIinux">
@@ -8,6 +8,9 @@
 
  <img src = "chainsaw.gif" width = "250px" align="right">
 
+  
+## Tools, IDE's and technologies i use
+ 
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
