@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/kaliIinux/kaliIinux/blob/main/chainsaw.gif"  />
 
 ###
 
@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg](https://github.com/kaliIinux/kaliIinux/blob/main/chainsaw.gif)" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg]" alt="Snake animation" />
 
 ###
