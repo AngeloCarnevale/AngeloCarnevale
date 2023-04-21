@@ -7,6 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaliIinux&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=0d1117&langs_count=7&count_private=true">
 </div>
 
+<div align="center"> 
+  <a href = "mailto:angelo.carnevale@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ângelo-carnevale-649ba2229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
   <h3 align="left">Languages and Tools:</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
