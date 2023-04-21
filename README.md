@@ -26,7 +26,7 @@
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  </div>
 
-<div float: right>
+<divfloat= "right">
      <img src="https://github.com/kaliIinux/kaliIinux/blob/main/chainsaw.gif"
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
