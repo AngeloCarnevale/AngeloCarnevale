@@ -27,6 +27,6 @@
  </div>
 
 <div>
-     <img align= "right" width="100" src="https://github.com/kaliIinux/kaliIinux/blob/main/chainsaw.gif"
+     <img align= "right" width="200" height="180" src="https://github.com/kaliIinux/kaliIinux/blob/main/chainsaw.gif"
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
