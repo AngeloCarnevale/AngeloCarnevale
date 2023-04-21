@@ -22,10 +22,10 @@
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>
   <img align= "right" width="200" height="180" src="https://github.com/kaliIinux/kaliIinux/blob/main/chainsaw.gif"<br>
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="50" width="60" padding="10" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
 </div>
 
