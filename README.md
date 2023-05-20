@@ -22,7 +22,7 @@
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align= "right" width="200" height="180" src="[https://64.media.tumblr.com/b00fd12290d189d0007beffaf01ed9e5/5335ee77d1987969-8d/s540x810/f177108bd8451f81a196b6c2254d3868e01b9919.gif(https://media.tenor.com/U7_MND2daeAAAAAd/kon-chainsaw-man.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkon-chainsaw-man-gif-27029576&psig=AOvVaw3YSrpgYbLsj0-x5-RBsUA3&ust=1684672511401000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCPj6T0g_8CFQAAAAAdAAAAABAJ)">
+  <img align= "right" width="200" height="180" src="https://64.media.tumblr.com/3aaf935c686d039cfe47b54146fde072/e8bd2a17b4e167d5-99/s540x810/adf535f4f80f57d440702f08a3dd968b24fbe674.gif">
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
