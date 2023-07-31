@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ângelo-carnevale-649ba2229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex"><br>
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -22,7 +22,7 @@
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <!--<img align= "right" width="200" height="180" src="">-->
+  <img align= "right" width="200" height="180" src="https://64.media.tumblr.com/b00fd12290d189d0007beffaf01ed9e5/5335ee77d1987969-8d/s540x810/f177108bd8451f81a196b6c2254d3868e01b9919.gif">
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
