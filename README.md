@@ -33,7 +33,7 @@
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
-![Snake animation](https://github.com/ANgeloCarnevale/AngeloCarnevale/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/ANgeloCarnevale/AngeloCarnevale/blob/output/github-contribution-grid-snake.svg)-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ocrljss7qracio7fyd7yobmkqi&width=1000&count=3)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
