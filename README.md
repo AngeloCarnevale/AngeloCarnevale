@@ -31,9 +31,9 @@
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  
-  
 </div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ocrljss7qracio7fyd7yobmkqi&width=1000&count=3)
 
 ![Snake animation](https://github.com/ANgeloCarnevale/AngeloCarnevale/blob/output/github-contribution-grid-snake.svg)
 
