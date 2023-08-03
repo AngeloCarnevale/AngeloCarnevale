@@ -36,6 +36,6 @@
 <br><br>
 
 <!--![Snake animation](https://github.com/ANgeloCarnevale/AngeloCarnevale/blob/output/github-contribution-grid-snake.svg)-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ocrljss7qracio7fyd7yobmkqi&width=1000&count=3)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=diegwl&count=2&width=650
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
