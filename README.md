@@ -35,7 +35,9 @@
 
 <br><br>
 
-<!--![Snake animation](https://github.com/ANgeloCarnevale/AngeloCarnevale/blob/output/github-contribution-grid-snake.svg)-->
+<div align="center">
+   <img src="https://github.com/AngeloCarnevale/AngeloCarnevale/blob/output/github-snake-dark.svg" />
+</div>
 <!--![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=tiaomakemehappy&count=3&width=1000)-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
