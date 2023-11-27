@@ -37,7 +37,7 @@
 
 <div align="center">
 <!--    <img src="https://github.com/AngeloCarnevale/AngeloCarnevale/blob/output/github-snake-dark.svg" /> -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloCarnevale&theme=monokai)
+  ![Image](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloCarnevale&theme=monokai)
 </div>
 <!--![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=tiaomakemehappy&count=3&width=1000)-->
 
